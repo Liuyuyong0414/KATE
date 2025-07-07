@@ -112,7 +112,7 @@ Our online method is based on OpenAI. The core code is placed in the KATE/Online
 
 We have placed all the data collected and reviewed during the experiment in the ./data/ directory.
 
-The data.jsonl file contains all the data we collected during our experiments. Each line in this file represents a single sample, stored in JSON format. You can split the data into training, validation, and test sets according to your own rules.
+The data.jsonl file contains all the data we collected during our experiments. Each line in this file represents a single sample, stored in JSON format. You can split the data into training, validation, and test sets according to your own rules.Due to the large size of the data, it has been compressed into ./data/data.zip. Please extract the contents before use.
 Each sample is stored as a JSON object, with the following keys:
 
 - **rep_name_1**: Repository name of the main sample
