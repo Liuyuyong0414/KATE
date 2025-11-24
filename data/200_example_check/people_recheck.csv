@@ -1,0 +1,201 @@
+index,Type,Mitigation
+1,Correct,-
+2,Additional Asserts,1
+3,External File Modification,1
+4,Correct,-
+5,Correct,-
+6,Correct,-
+7,Correct,-
+8,Correct,-
+9,Additional Asserts,1
+10,Partial Updates,0
+11,Assert Error,1
+12,Missing Asserts,0
+13,Test Preparation Error,0
+14,Wrong Update Direction,0
+15,Correct,-
+16,Missing Asserts,0
+17,External Function Modification,0
+18,Correct,-
+19,External Class Modification,0
+20,External Function Modification,0
+21,External Class Modification,1
+22,Wrong Update Direction,0
+23,Missing Asserts,1
+24,Correct,-
+25,Assert Error,0
+26,External Class Modification,1
+27,Pure Syntax Error,1
+28,Correct,-
+29,Assert Error,0
+30,Correct,-
+31,Additional Asserts,1
+32,Wrong Update Direction,1
+33,Missing Asserts,0
+34,Test Preparation Error,0
+35,External Class Modification,1
+36,Correct,-
+37,Correct,-
+38,Missing Asserts,0
+39,Correct,-
+40,Missing Asserts,0
+41,Field/Package Modification,0
+42,Test Preparation Error,0
+43,Correct,-
+44,Field/Package Modification,0
+45,External Class Modification,1
+46,Additional Asserts,1
+47,Field/Package Modification,1
+48,Correct,-
+49,Test Preparation Error,0
+50,Missing Asserts,0
+51,Pure Syntax Error,1
+52,Assert Error,1
+53,Missing Asserts,0
+54,Correct,-
+55,Correct,-
+56,Field/Package Modification,1
+57,Correct,-
+58,Correct,-
+59,Additional Asserts,1
+60,Correct,-
+61,Correct,-
+62,Correct,-
+63,Correct,-
+64,Correct,-
+65,Correct,-
+66,Field/Package Modification,0
+67,Field/Package Modification,0
+68,External Class Modification,0
+69,Wrong Update Direction,1
+70,Correct,-
+71,Assert Error,1
+72,Correct,-
+73,Wrong Update Direction,1
+74,External Class Modification,1
+75,External Function Modification,1
+76,Correct,-
+77,Test Preparation Error,1
+78,Test Preparation Error,0
+79,Correct,-
+80,Field/Package Modification,0
+81,Correct,-
+82,Correct,-
+83,Test Preparation Error,1
+84,Assert Error,0
+85,Correct,-
+86,Correct,-
+87,Field/Package Modification,0
+88,Correct,-
+89,Wrong Update Direction,1
+90,External Class Modification,0
+91,Correct,-
+92,Partial Updates,1
+93,Missing Asserts,0
+94,External File Modification,0
+95,Field/Package Modification,0
+96,Assert Error,0
+97,Additional Asserts,1
+98,Correct,-
+99,Correct,-
+100,Missing Asserts,0
+101,Correct,-
+102,Correct,-
+103,Test Preparation Error,0
+104,External File Modification,1
+105,Correct,-
+106,Field/Package Modification,0
+107,Correct,-
+108,Correct,-
+109,Correct,-
+110,Field/Package Modification,0
+111,Additional Asserts,0
+112,Correct,-
+113,Correct,-
+114,Wrong Update Direction,1
+115,Correct,-
+116,Correct,-
+117,Missing Asserts,0
+118,External Class Modification,1
+119,Test Preparation Error,1
+120,External Class Modification,0
+121,Correct,-
+122,Missing Asserts,0
+123,External File Modification,0
+124,External Class Modification,1
+125,Field/Package Modification,0
+126,Missing Asserts,1
+127,Correct,-
+128,Test Preparation Error,1
+129,Missing Asserts,0
+130,Correct,-
+131,External Class Modification,1
+132,Missing Asserts,0
+133,Correct,-
+134,Wrong Update Direction,1
+135,External Class Modification,0
+136,Missing Asserts,0
+137,Missing Asserts,1
+138,External Function Modification,1
+139,External Class Modification,0
+140,Wrong Update Direction,0
+141,External Class Modification,0
+142,Correct,-
+143,Field/Package Modification,1
+144,Correct,-
+145,Correct,-
+146,External Function Modification,1
+147,External File Modification,0
+148,Correct,-
+149,Wrong Update Direction,1
+150,Wrong Update Direction,0
+151,External Function Modification,1
+152,External File Modification,0
+153,External Class Modification,0
+154,Partial Updates,1
+155,Missing Asserts,0
+156,External File Modification,0
+157,External Function Modification,0
+158,Missing Asserts,0
+159,External File Modification,0
+160,Test Preparation Error,0
+161,Test Preparation Error,0
+162,Test Preparation Error,0
+163,External Function Modification,0
+164,External Function Modification,0
+165,Correct,-
+166,Wrong Update Direction,1
+167,Correct,-
+168,Missing Asserts,0
+169,External Function Modification,0
+170,Field/Package Modification,0
+171,Test Preparation Error,1
+172,Missing Asserts,0
+173,Wrong Update Direction,0
+174,Correct,-
+175,Correct,-
+176,External File Modification,0
+177,External Function Modification,1
+178,External Function Modification,1
+179,Test Preparation Error,0
+180,Wrong Update Direction,1
+181,Test Preparation Error,0
+182,Test Preparation Error,0
+183,Test Preparation Error,1
+184,Missing Asserts,0
+185,Wrong Update Direction,0
+186,Missing Asserts,0
+187,Wrong Update Direction,1
+188,External Class Modification,0
+189,Missing Asserts,0
+190,Test Preparation Error,0
+191,Assert Error,1
+192,External Class Modification,1
+193,Test Preparation Error,1
+194,Test Preparation Error,1
+195,External Class Modification,0
+196,External Function Modification,0
+197,Additional Asserts,1
+198,External Class Modification,0
+199,Assert Error,0
+200,External Function Modification,0
