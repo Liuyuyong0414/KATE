@@ -99,7 +99,12 @@ python run_rapgen.py \
 
 You can specify which model checkpoint to evaluate (e.g., 'best-codebleu', 'best-em', 'best-codebleu-em', 'best-ppl') by modifying the relevant configuration in the `run.py` file.
 
-The implementation of the baseline method can be found at https://github.com/CEPROTest/CEPROT and https://github.com/SQUARE-RG/SynTeR
+The implementation of the baseline methods can be found at the following links:
+
+- **CEPROT**: [https://github.com/CEPROTest/CEPROT](https://github.com/CEPROTest/CEPROT)
+- **SynTeR**: [https://github.com/SQUARE-RG/SynTeR](https://github.com/SQUARE-RG/SynTeR)
+- **REACCEPT**: [https://github.com/Timiyang-ai/REACCEPT](https://github.com/Timiyang-ai/REACCEPT)
+- **UTFix**: [https://sites.google.com/view/utfix](https://sites.google.com/view/utfix)
 
 ## 3. KATE-Online
 
